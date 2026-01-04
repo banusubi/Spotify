@@ -24,3 +24,4 @@ If you are developing a production application, we recommend using TypeScript wi
 - Added Tailwind directives in `src/index.css`.
 - Imported `index.css` in `main.js`.
 - Run `npm run dev` to start the development server.
+"# Spotify-clone" 
